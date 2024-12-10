@@ -1,0 +1,4 @@
+github_branch_protection:
+  organization:
+    amount_of_required_reviews: 2
+    required_status_checks: []
